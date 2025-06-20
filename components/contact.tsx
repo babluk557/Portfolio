@@ -94,7 +94,7 @@ export default function Contact() {
                   <MapPin className="w-6 h-6 mr-4 text-primary" />
                   <div>
                     <h4 className="font-medium">Location</h4>
-                    <p className="text-muted-foreground">Begusarai, Bihar, India</p>
+                    <p className="text-muted-foreground">Bengaluru, Karnataka, India</p>
                   </div>
                 </CardContent>
               </Card>

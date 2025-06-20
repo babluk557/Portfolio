@@ -58,7 +58,7 @@ export default function About() {
               <Card className="border-primary/10 shadow-sm">
                 <CardContent className="p-4">
                   <p className="font-medium">Location</p>
-                  <p className="text-muted-foreground">Begusarai, Bihar</p>
+                  <p className="text-muted-foreground">Bengaluru, Karnataka</p>
                 </CardContent>
               </Card>
               <Card className="border-primary/10 shadow-sm">
